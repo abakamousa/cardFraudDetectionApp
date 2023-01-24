@@ -1,7 +1,7 @@
 # About
 This applications presents a project on fraud detection using a classification algorithm.
 
-## Run the application 
+## How to run the application 
 
 To run locally, clone the repository, go to the diretory and install the requirements.
 
