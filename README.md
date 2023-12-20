@@ -1,5 +1,5 @@
 # About
-This applications presents a project on fraud detection using a classification algorithm.
+cardFraudDetectionApp is a solution for fraud detection using a classification algorithm.
 
 ## How to run the application 
 
